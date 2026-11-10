@@ -18,7 +18,7 @@ Estudiante avanzada de **Ingeniería en Sistemas de Información** en la Univers
 
 ## Proyecto Destacado
 
-- **[eventia-buyer-platform](https://github.com/claraithurrart6/eventia-buyer-platform):** Microservicio comprador (Buyer) para la plataforma Eventia: catálogo de eventos, compras, devoluciones y panel administrador.
+- **[https://github.com/claraithurrart6/buyer-eventia):** Microservicio comprador (Buyer) para la plataforma Eventia: catálogo de eventos, compras, devoluciones y panel administrador.
 ---
 
 ## Contacto

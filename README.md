@@ -18,10 +18,10 @@ Estudiante avanzada de **Ingeniería en Sistemas de Información** en la Univers
 
 ## Proyecto Destacado
 
-- **[https://github.com/claraithurrart6/buyer-eventia):** Microservicio comprador (Buyer) para la plataforma Eventia: catálogo de eventos, compras, devoluciones y panel administrador.
+- **[Buyer App Eventia](https://github.com/claraithurrart6/buyer-eventia):** Microservicio comprador (Buyer) para la plataforma Eventia: catálogo de eventos, compras, devoluciones y panel administrador. (proyecto fijado)
 ---
 
 ## Contacto
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/clara-ithurrart/](https://linkedin.com)
+- 💼 **LinkedIn:** [Clara Ithurrart](https://www.linkedin.com/in/clara-ithurrart/)
 - ✉️ **Correo electrónico:** claraithurrart3@gmail.com

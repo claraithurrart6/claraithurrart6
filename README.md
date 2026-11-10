@@ -1,6 +1,6 @@
-Clara Ithurrart 
+##Clara Ithurrart 
 
-Estudiante avanzada de **Ingeniería en Sistemas de Información** de la Universidad Nacional del Sur.
+Estudiante avanzada de **Ingeniería en Sistemas de Información** en la Universidad Nacional del Sur.
 
 ---
 

@@ -1,16 +1,27 @@
-## Hi there 👋
+Clara Ithurrart 
 
-<!--
-**claraithurrart6/claraithurrart6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzada de **Ingeniería en Sistemas de Información** de la Universidad Nacional del Sur.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes de Programación:** JavaScript, TypeScript, Java, Prolog (Paradigma Lógico)
+- **Desarrollo Web & Backend:** Node.js, Express, React, Next.js, REST APIs
+- **Autenticación:** Clerk Auth
+- **Bases de Datos & ORM:** PostgreSQL, MySQL, Prisma ORM
+- **Testing - Calidad:**  API Testing (Postman), Newman, Testing de carga k6, Playwright
+- **Deployment:** Vercel
+- **Herramientas & Metodologías:** Git, GitHub, Scrum / Metodologías Ágiles
+
+---
+
+## Proyectos Destacados
+
+- **[eventia-buyer-platform](https://github.com/claraithurrart6/eventia-buyer-platform):** Microservicio comprador (Buyer) para la plataforma Eventia: catálogo de eventos, compras, devoluciones y panel administrador.
+---
+
+## Contacto
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/clara-ithurrart/](https://linkedin.com)
+- ✉️ **Correo electrónico:** [claraithurrart3@gmail.com]
